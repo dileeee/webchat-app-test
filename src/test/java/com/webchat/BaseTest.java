@@ -1,6 +1,6 @@
-package com.hogwarts;
+package com.webchat;
 
-import com.hogwarts.core.AppFactory;
+import com.webchat.core.AppFactory;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import org.junit.jupiter.api.AfterAll;

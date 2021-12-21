@@ -1,7 +1,7 @@
-package com.hogwarts;
+package com.webchat;
 
-import com.hogwarts.page.ContactPage;
-import com.hogwarts.page.HomePage;
+import com.webchat.page.ContactPage;
+import com.webchat.page.HomePage;
 import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.TestMethodOrder;

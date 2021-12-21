@@ -1,6 +1,6 @@
-package com.hogwarts.core;
+package com.webchat.core;
 
-import com.hogwarts.config.ConfigPropInfo;
+import com.webchat.config.ConfigPropInfo;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 

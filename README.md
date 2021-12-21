@@ -1,5 +1,7 @@
 ## 企业微信app实战
 
+appium+java+junit5
+
 ### 框架结构如下
 
 - config

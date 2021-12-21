@@ -1,4 +1,4 @@
-package com.hogwarts.config;
+package com.webchat.config;
 
 import java.io.IOException;
 import java.util.Properties;

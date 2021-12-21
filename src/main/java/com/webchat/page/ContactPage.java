@@ -1,12 +1,10 @@
-package com.hogwarts.page;
+package com.webchat.page;
 
-import com.hogwarts.core.AppBasePage;
+import com.webchat.core.AppBasePage;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 import org.openqa.selenium.WebElement;
-
-import java.util.List;
 
 /**
  * @author w29530

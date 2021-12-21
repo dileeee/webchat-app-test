@@ -1,6 +1,6 @@
-package com.hogwarts.core;
+package com.webchat.core;
 
-import com.hogwarts.config.ConfigPropInfo;
+import com.webchat.config.ConfigPropInfo;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
 /**
